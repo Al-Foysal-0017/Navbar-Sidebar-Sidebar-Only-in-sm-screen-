@@ -1,0 +1,22 @@
+---> Just copy the navbar folder and paste to it in your app.
+---> Call the { NavAndSidebar.js } file.
+
+
+---> For depandancies there is need { npm i hamburger-react }
+---> For depandancies there is need { react-router-dom }
+
+
+
+---> For the navbar likns, all links should be set in Navlinks.js
+---> By default, I suupose that there is logo in Left, 
+    some links in middle and there is also likns in right.
+    But I do not set links for center. 
+    If you want you can set it in center.
+    But the navlinks of middle are set in sidebar.
+---> For Hamburgur manu and the navbar links are show or not show which
+    are set for breakpoints in 1024px.
+    You can change it. 
+
+
+
+*** If you use Container, than you can set it for navbar to.
